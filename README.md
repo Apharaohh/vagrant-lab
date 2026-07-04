@@ -12,10 +12,8 @@ A reproducible, infrastructure-as-code lab that demonstrates automated cluster b
 2. Run `vagrant up` to boot the nodes.
 3. Run `ansible-playbook -i inventory.yml site.yml` to configure them.
 
-## What You'll Learn
+## What I leanred
 - Vagrant: infrastructure definition and reproducibility
 - Ansible: idempotent configuration management
 - YAML: declarative syntax for infrastructure
 - Multi-node orchestration: parallelism at scale
-
-## Directory Structure
